@@ -1,0 +1,79 @@
+﻿body
+{
+ font-family: Arial, Times;
+ Background-color:skyblue;
+}
+header{
+
+  background:blue;
+  color: white;
+  width:80%;
+  margin-left: auto;
+  margin-right:auto;
+  Text-align:center;
+  padding:10px;
+ overflow:hidden;
+}
+
+hgroup
+{
+width: 70%;
+float: left;
+}
+nav
+{
+  width: 30%;
+  float: right;
+}
+
+nav ul
+{
+  list-style-type: none;
+
+}
+
+nav li
+{
+  float: left;
+ margin-left: 10px;
+
+}
+h1
+{
+line-height:5px;
+}
+
+script
+{
+  float: left;
+ margin-left: 10px;
+}
+
+
+
+article
+{
+  background:white;
+  color: blue;
+  width:80%;
+  margin-left: auto;
+  margin-right:auto;
+  Text-align:left;
+  padding:5px;
+  border-width :5px;
+  border-style :solid;
+  border-color :black;
+ font-size :1.1em;
+ }
+
+footer{
+  
+  background:blue;
+  color: white;
+  width:80%;
+  margin-left: auto;
+  margin-right:auto;
+ padding:10px;
+
+
+}
